@@ -1,0 +1,18 @@
+mysql:
+   host-name: localhost
+   porta: 3306
+   database: sttey
+   usuario: root
+   senha:
+   
+Mensagens:
+- '&e&LINFO &fMENSAGEM 1'
+- '&e&LINFO &fMENSAGEM 2'
+- '&e&LINFO &fMENSAGEM 3'
+- '&e&LINFO &fMENSAGEM 4'
+- '&e&LINFO &fMENSAGEM 5'
+- '&e&LINFO &fMENSAGEM 6'
+
+Configurador_de_tags:
+    - '&4&lCEO&f &4 ,,&4&lCEO&f &4,a,tag.ceo,ceo,dono,owner'
+    - '&7§lMEMBRO ,,&7MEMBRO,r,none,membro,normal,default'

@@ -1,0 +1,16 @@
+name: Lobby
+version: BETA
+author: mgsbits
+main: me.igormgs.Main
+depend: [Citizens]
+commands:
+  voar:
+  fly:
+  tag:
+  chat:
+  gm:
+  gamemode:
+  tp:
+  tpall:
+  tell:
+  bleh:
